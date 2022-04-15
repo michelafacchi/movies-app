@@ -1,3 +1,10 @@
+Esercitazione scolastica React. 
+Realizzazione di simil-piattaforma streaming, possibilità di scegliere il film tramite menù e categoria.
+Utilizzo di https://www.themoviedb.org/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
